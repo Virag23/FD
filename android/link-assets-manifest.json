@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/images/logo.png",
+      "sha1": "57bc0bc440a7d8e769c47367fa8f38121611f3aa"
+    },
+    {
+      "path": "src/assets/images/Virag.jpg",
+      "sha1": "8464c48dba7a8478c6dedd8e39d20d318cff6fbb"
+    }
+  ]
+}
